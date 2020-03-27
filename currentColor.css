@@ -1,0 +1,30 @@
+.red-box {
+    color: red;
+    border: 2px solid red;
+    box-shadow: 5px 10px red;
+}
+
+.red-box {
+    color: red;
+    border: 2px solid currentColor;
+    box-shadow: 5px 10px currentColor;
+}
+
+body {
+    color: blue;
+}
+
+p {
+    border: 1px solid currentColor;
+    /* will create paragraphs with a blue border */
+}
+
+body {
+    color: blue;
+}
+
+p {
+    border: 1px solid currentColor;
+    color: red;
+    /* will create paragraphs with a RED border */
+}
