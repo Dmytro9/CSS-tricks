@@ -1,0 +1,2 @@
+# Compress imges
+# https://fengyuanchen.github.io/compressorjs/
